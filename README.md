@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Surat Cinta Untukmu</title>
+  <title>Surat Cinta Untukmu Sabrina</title>
   <style>
     body {
       font-family: 'Georgia', serif;
@@ -39,7 +39,7 @@
   </p>
   <footer>
     Dengan cinta,<br>
-    [Namamu]
+    [Ghaly Adam]
   </footer>
 </body>
 </html>
